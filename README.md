@@ -1,6 +1,6 @@
-# EcoTrack (Placeholder Name)
+# LeafLog (Placeholder Name)
 
-🌿 **EcoTrack** is a mobile app designed to help users reduce their carbon footprint through daily eco-action logging, social accountability, and AI-powered insights.
+🌿 **LeafLog** is a mobile app designed to help users reduce their carbon footprint through daily eco-action logging, social accountability, and AI-powered insights.
 
 ---
 
